@@ -1,0 +1,60 @@
+.red {
+    background-color:red;
+    height: 200px;
+    
+}
+
+.green {
+   
+    height: 200px;
+    background-color:green;
+}
+
+.blue {
+    
+    height: 200px;
+    background-color: blue;
+}
+
+.slot {
+    margin-left: 30%;
+    
+    background-color: black;
+    
+}
+
+#winner{
+    text-align: center;
+    font-size: 50px;
+    margin-right: 60px;
+}
+
+#loser{
+    text-align: center;
+    font-size: 30px;
+}
+
+.button{
+    width: 100px;
+    height: 100px;
+    margin-left: 680px;
+    background-color: lightgreen;
+}
+
+.exitbutton {
+    height: 40px;
+    width: 40px;
+    
+}
+
+.background{
+    background-color: black;
+    height: 800px;
+}
+
+#fadein{
+    color: red;
+    font-size: 200px;
+    padding-top: 200px;
+    padding-left: 400px;
+}
